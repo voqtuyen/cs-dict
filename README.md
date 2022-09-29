@@ -1,1 +1,2 @@
-# cs-vocab
+# Computer science dictionary
+
